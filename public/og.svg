@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#F8FAFC"/>
+  <rect x="80" y="180" width="88" height="88" rx="18" fill="#4F46E5"/>
+  <text x="124" y="244" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" fill="white" text-anchor="middle">M</text>
+  <text x="80" y="332" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="700" fill="#0F172A">Medium Workspace</text>
+  <text x="80" y="398" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#64748B">Write in Markdown. Publish to Medium.</text>
+  <text x="80" y="450" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#94A3B8">Inline checker · image copy · table-to-PNG · live preview</text>
+</svg>
